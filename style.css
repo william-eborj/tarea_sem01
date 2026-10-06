@@ -1,0 +1,22 @@
+div{
+border: 5px double darkblue;
+width: 90%;
+margin: auto 25px;
+padding: 10px;
+background-color: burlywood;
+}
+
+h1{
+color: crimson;
+text-align: center;
+text-decoration: underline;
+}
+
+h2{
+
+color: darkblue;
+}
+
+p{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
